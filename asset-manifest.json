@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c48147e7.chunk.css",
+    "main.js": "/static/js/main.23dbe69f.chunk.js",
+    "main.js.map": "/static/js/main.23dbe69f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.676fe198.js",
+    "runtime-main.js.map": "/static/js/runtime-main.676fe198.js.map",
+    "static/js/2.cf7d4b89.chunk.js": "/static/js/2.cf7d4b89.chunk.js",
+    "static/js/2.cf7d4b89.chunk.js.map": "/static/js/2.cf7d4b89.chunk.js.map",
+    "static/js/3.a72137c1.chunk.js": "/static/js/3.a72137c1.chunk.js",
+    "static/js/3.a72137c1.chunk.js.map": "/static/js/3.a72137c1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c48147e7.chunk.css.map": "/static/css/main.c48147e7.chunk.css.map",
+    "static/js/2.cf7d4b89.chunk.js.LICENSE.txt": "/static/js/2.cf7d4b89.chunk.js.LICENSE.txt",
+    "static/media/AboutMe_Logo.72a0de0b.svg": "/static/media/AboutMe_Logo.72a0de0b.svg",
+    "static/media/BtnNext.0e821b85.svg": "/static/media/BtnNext.0e821b85.svg",
+    "static/media/BtnNext.52dbaaa1.svg": "/static/media/BtnNext.52dbaaa1.svg",
+    "static/media/BtnPrev.314e55dc.svg": "/static/media/BtnPrev.314e55dc.svg",
+    "static/media/HiLogo.cf01e438.svg": "/static/media/HiLogo.cf01e438.svg",
+    "static/media/Me.60a977bf.svg": "/static/media/Me.60a977bf.svg",
+    "static/media/Menu.737bcfbe.svg": "/static/media/Menu.737bcfbe.svg",
+    "static/media/MyArt.ff41fe0c.svg": "/static/media/MyArt.ff41fe0c.svg",
+    "static/media/Photo.5066d8eb.svg": "/static/media/Photo.5066d8eb.svg",
+    "static/media/Portofolio_Logo.5975cee0.svg": "/static/media/Portofolio_Logo.5975cee0.svg",
+    "static/media/Stars.1886d0d9.svg": "/static/media/Stars.1886d0d9.svg",
+    "static/media/Stars.22579f5d.svg": "/static/media/Stars.22579f5d.svg",
+    "static/media/Stars.cd96aebf.svg": "/static/media/Stars.cd96aebf.svg",
+    "static/media/Stars.d83be1ad.svg": "/static/media/Stars.d83be1ad.svg",
+    "static/media/Vector.40d4c656.svg": "/static/media/Vector.40d4c656.svg",
+    "static/media/Vector.8a699e27.svg": "/static/media/Vector.8a699e27.svg",
+    "static/media/Vector.b3f2f584.svg": "/static/media/Vector.b3f2f584.svg",
+    "static/media/fb_icon.1124630a.svg": "/static/media/fb_icon.1124630a.svg",
+    "static/media/gmail_icon.c10075d7.svg": "/static/media/gmail_icon.c10075d7.svg",
+    "static/media/ig_icon.d31c64a0.svg": "/static/media/ig_icon.d31c64a0.svg",
+    "static/media/link_icon.a16ff53c.svg": "/static/media/link_icon.a16ff53c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.676fe198.js",
+    "static/js/2.cf7d4b89.chunk.js",
+    "static/css/main.c48147e7.chunk.css",
+    "static/js/main.23dbe69f.chunk.js"
+  ]
+}
